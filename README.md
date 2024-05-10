@@ -44,8 +44,8 @@
 ```py
 /*
 Developing AI Agent with PEAS Description
-Developed by: Silambarasan K
-RegisterNumber: 212221230101
+Developed by: : Pranave B
+RegisterNumber: 212221240040
 */
 class VacuumCleanerAgent:
     def __init__(self):
